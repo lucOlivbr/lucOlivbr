@@ -1,16 +1,26 @@
-## Hi there 👋
+# Lucas (@lucOlivbr)
 
-<!--
-**lucOlivbr/lucOlivbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full-Stack focado na criação de aplicações web, APIs RESTful e ferramentas de automação.
 
-Here are some ideas to get you started:
+Foco em código limpo, resolução de problemas de ponta a ponta e integração entre interfaces e serviços backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Projetos em Destaque
+
+- **[link-shortener-cli](https://github.com/lucOlivbr/link-shortener-cli)** — CLI para encurtamento de URLs, redirecionamento e persistência de dados.
+- **[devstats](https://github.com/lucOlivbr/devstats)** — Ferramenta em linha de comando para consumir e analisar dados públicos da API REST do GitHub.
+- **[api-health-check](https://github.com/lucOlivbr/api-health-check)** — Monitor de disponibilidade de serviços e mensuração de latência de endpoints HTTP/HTTPS.
+
+---
+
+### Stack Tecnológica
+
+- **Frontend:** React, HTML5, CSS3, Tailwind CSS, JavaScript/TypeScript
+- **Backend:** Node.js, Express, REST APIs
+- **Ferramentas & DB:** Git, GitHub, SQL / Bancos Relacionais, Linux/Terminal
+
+---
+
+### Contato
+
+- LinkedIn: [Lucas](https://www.linkedin.com/in/lucas-alves-oliveira-098237323/)

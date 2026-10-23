@@ -1,6 +1,6 @@
 # Lucas Alves Oliveira
 
-Estudante de **Ciência da Computação na UNA**, em Belo Horizonte, Brasil — 2º período, com conclusão prevista para dezembro de 2029. **Inglês fluente.**
+Estudante de **Ciência da Computação na UNA**, em Belo Horizonte, Brasil, 2º período, com conclusão prevista para dezembro de 2029. **Inglês fluente.**
 
 Busco oportunidades de estágio e desenvolvimento júnior, com interesse em **backend, full stack, automação, qualidade de software e desenvolvimento de jogos**. Aplico meus conhecimentos em projetos pessoais e acadêmicos, documentando o que cada aplicação faz e suas limitações.
 

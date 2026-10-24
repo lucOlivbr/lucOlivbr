@@ -1,21 +1,30 @@
 # Lucas Alves Oliveira
+### Software Developer | Java · Python · SQL · React
 
-Desenvolvimento de software com **Java/Spring Boot, React e Python/SQL**. Construo APIs, aplicações web e ferramentas de análise de dados em projetos pessoais e acadêmicos.
+Desenvolvo APIs REST, aplicações web e ferramentas de análise de dados em projetos pessoais e acadêmicos. Meu foco é **backend, automação com código e desenvolvimento full stack**.
 
-Estudante de Ciência da Computação na UNA, Belo Horizonte. Conclusão prevista: dezembro de 2029. Inglês fluente. Busco oportunidades de estágio e desenvolvimento júnior em backend e full stack.
+Ciência da Computação na UNA, Belo Horizonte · 2º período · Conclusão prevista: dezembro/2029 · Inglês fluente.
 
-## Três projetos em destaque
+## Projetos selecionados
 
-| Projeto | Problema e implementação | Stack |
+| Projeto | O que o código demonstra | Tecnologias |
 | --- | --- | --- |
-| [Cadastro de usuários](https://github.com/lucOlivbr/cadastro-usuario) | API de cadastro, consulta, atualização e exclusão, organizada em Controller, Service e Repository. | Java 17, Spring Boot, JPA, H2 |
-| [Gerenciador de tarefas](https://github.com/lucOlivbr/Projeto-React) | Organização de tarefas com cadastro, conclusão, detalhes e persistência local no navegador. | React, JavaScript, Vite |
-| [DataScope](https://github.com/lucOlivbr/DataScope) | Dashboard que compara o acesso à internet com dados públicos do Banco Mundial e análise em SQL. | Python, Pandas, SQLite, Streamlit |
+| [DataScope](https://github.com/lucOlivbr/DataScope) | Integração com a API do Banco Mundial, tratamento de dados, consultas SQL, filtros, gráficos e exportação CSV. | Python, Pandas, SQLite, Streamlit |
+| [API de cadastro de usuários](https://github.com/lucOlivbr/cadastro-usuario) | CRUD REST organizado em Controller, Service e Repository, com execução e contrato HTTP documentados. | Java 17, Spring Boot, JPA, H2, Maven |
+| [Cadastro com Django](https://github.com/lucOlivbr/cadastro-usuarios-django) | Validação de formulários, CSRF, escape de HTML e fluxo POST/redirect/GET; 8 testes automatizados. | Python, Django, SQLite |
+| [Gerenciador de tarefas](https://github.com/lucOlivbr/Projeto-React) | Tarefas com persistência local e validação dos dados armazenados; 17 testes de regressão da persistência. | React, JavaScript, Vite, node:test |
+| [Vet Voice Agent](https://github.com/lucOlivbr/vet-voice-agent) | Protótipo de agendamento por voz e tratamento de conflitos; 6 testes da camada de banco de dados. | Python, SQLite, LiveKit Agents |
 
-Cada repositório documenta execução, decisões técnicas, testes e limites. São projetos de portfólio e estudo; não representam experiência profissional em desenvolvimento.
+[**Abrir demonstração do gerenciador de tarefas**](https://projeto-react-three-fawn.vercel.app/)
+
+## Interesses
+
+Busco oportunidades de **estágio e desenvolvimento júnior**, inclusive em fintechs, bancos e plataformas de dados. Tenho interesse em engenharia de software aplicada ao mercado financeiro e desenvolvimento quantitativo. O DataScope demonstra minha prática atual com dados; não é um sistema de trading ou uma experiência profissional em Quant.
+
+Os repositórios documentam o que está implementado e seus limites. Os projetos desta página são pessoais e acadêmicos.
 
 ## English
 
-Software development portfolio focused on backend APIs, web applications and data analysis using Java/Spring Boot, React and Python/SQL. Computer Science student at UNA, Brazil; graduation expected in December 2029. Fluent in English and seeking software development internships and junior roles.
+Software Developer focused on backend APIs, web applications and data tooling with Java/Spring Boot, Python/SQL and React. Computer Science student at UNA in Belo Horizonte, Brazil; graduation expected in December 2029. Fluent in English, seeking internships and junior software development roles, including financial technology.
 
 [LinkedIn](https://www.linkedin.com/in/lucas-alves-oliveira-098237323/)

@@ -17,9 +17,13 @@ Ciência da Computação na UNA, Belo Horizonte · 2º período · Conclusão pr
 
 [**Abrir demonstração do gerenciador de tarefas**](https://projeto-react-three-fawn.vercel.app/)
 
+## Estudos atuais
+
+**C++ é meu foco atual de estudos**, com interesse em evoluir em fundamentos de programação e, no futuro, engenharia de software para o mercado financeiro. Os projetos acima representam as tecnologias já demonstradas neste portfólio.
+
 ## Interesses
 
-Busco oportunidades de **estágio e desenvolvimento júnior**, inclusive em fintechs, bancos e plataformas de dados. Tenho interesse em engenharia de software aplicada ao mercado financeiro e desenvolvimento quantitativo. O DataScope demonstra minha prática atual com dados; não é um sistema de trading ou uma experiência profissional em Quant.
+Busco oportunidades de **estágio e desenvolvimento júnior**, inclusive em fintechs, bancos e plataformas de dados. Tenho interesse em engenharia de software aplicada ao mercado financeiro e desenvolvimento quantitativo. O DataScope reúne minha prática atual com integração, tratamento e análise de dados públicos.
 
 Os repositórios documentam o que está implementado e seus limites. Os projetos desta página são pessoais e acadêmicos.
 

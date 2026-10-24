@@ -1,30 +1,21 @@
 # Lucas Alves Oliveira
 
-Estudante de **Ciência da Computação na UNA**, em Belo Horizonte, Brasil, 2º período, com conclusão prevista para dezembro de 2029. **Inglês fluente.**
+Desenvolvimento de software com **Java/Spring Boot, React e Python/SQL**. Construo APIs, aplicações web e ferramentas de análise de dados em projetos pessoais e acadêmicos.
 
-Busco oportunidades de estágio e desenvolvimento júnior, com interesse em **backend, full stack, automação, qualidade de software e desenvolvimento de jogos**. Aplico meus conhecimentos em projetos pessoais e acadêmicos, documentando o que cada aplicação faz e suas limitações.
+Estudante de Ciência da Computação na UNA, Belo Horizonte. Conclusão prevista: dezembro de 2029. Inglês fluente. Busco oportunidades de estágio e desenvolvimento júnior em backend e full stack.
 
-## Projetos com código
+## Três projetos em destaque
 
-| Projeto | O que você encontra | Tecnologias utilizadas |
+| Projeto | Problema e implementação | Stack |
 | --- | --- | --- |
-| [DataScope](https://github.com/lucOlivbr/DataScope) | Análise de acesso à internet com dados do Banco Mundial, integração com API e dashboard interativo. | Python, Pandas, SQLite/SQL, Streamlit |
-| [Cadastro de usuário — API](https://github.com/lucOlivbr/cadastro-usuario) | API REST de cadastro, consulta, atualização e exclusão, organizada em Controller, Service e Repository. | Java 17, Spring Boot, JPA, H2, Maven |
-| [Cadastro de usuários — Django](https://github.com/lucOlivbr/cadastro-usuarios-django) | Cadastro e listagem, validação de formulário, proteção CSRF e testes de comportamento. | Python, Django, SQLite, HTML/CSS |
-| [Gerenciador de tarefas](https://github.com/lucOlivbr/Projeto-React) | Adição, conclusão e exclusão de tarefas, com persistência local no navegador. | React, JavaScript/JSX, Vite, CSS |
-| [Vet Voice Agent](https://github.com/lucOlivbr/vet-voice-agent) | Agente de voz para agendamento veterinário, com integração de fala e LLM e armazenamento em SQLite. | Python, LiveKit Agents, SQLite |
-| [NIGHTSHIFT — Última Entrega](https://github.com/lucOlivbr/NIGHTSHIFT) | Jogo 3D em desenvolvimento com patrulha, perseguição, interação e uma missão integrada. O README registra a assistência de IA e os limites da versão. | Godot, GDScript |
+| [Cadastro de usuários](https://github.com/lucOlivbr/cadastro-usuario) | API de cadastro, consulta, atualização e exclusão, organizada em Controller, Service e Repository. | Java 17, Spring Boot, JPA, H2 |
+| [Gerenciador de tarefas](https://github.com/lucOlivbr/Projeto-React) | Organização de tarefas com cadastro, conclusão, detalhes e persistência local no navegador. | React, JavaScript, Vite |
+| [DataScope](https://github.com/lucOlivbr/DataScope) | Dashboard que compara o acesso à internet com dados públicos do Banco Mundial e análise em SQL. | Python, Pandas, SQLite, Streamlit |
 
-As tecnologias acima estão associadas aos projetos em que são utilizadas. Os repositórios são trabalhos de estudo e portfólio; detalhes de execução, dependências e limitações estão em seus READMEs.
-
-## Experiência e forma de aprender
-
-Minha experiência profissional na **Camicado (jan/2025–fev/2026)** foi em atendimento ao cliente, com comunicação, escuta e resolução de problemas. Aprendo programação por meio de exercícios e projetos e procuro entender o código para conseguir explicá-lo e evoluí-lo.
+Cada repositório documenta execução, decisões técnicas, testes e limites. São projetos de portfólio e estudo; não representam experiência profissional em desenvolvimento.
 
 ## English
 
-Computer Science student at UNA, based in Belo Horizonte, Brazil, with graduation expected in December 2029. Fluent in English and looking for software development internships and junior opportunities. My personal and academic projects cover backend APIs, web applications, data automation and game development.
+Software development portfolio focused on backend APIs, web applications and data analysis using Java/Spring Boot, React and Python/SQL. Computer Science student at UNA, Brazil; graduation expected in December 2029. Fluent in English and seeking software development internships and junior roles.
 
-## Contato / Contact
-
-[LinkedIn — Lucas Alves Oliveira](https://www.linkedin.com/in/lucas-alves-oliveira-098237323/)
+[LinkedIn](https://www.linkedin.com/in/lucas-alves-oliveira-098237323/)

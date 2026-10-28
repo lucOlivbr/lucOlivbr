@@ -9,7 +9,7 @@ Ciência da Computação na UNA, Belo Horizonte · 2º período · Conclusão pr
 
 | Projeto | O que o código demonstra | Tecnologias |
 | --- | --- | --- |
-| [DataScope](https://github.com/lucOlivbr/DataScope) | Integração com a API do Banco Mundial, tratamento de dados, consultas SQL, contrato de qualidade e exportação CSV; 9 testes com execução automática no GitHub, incluindo CSV → SQLite. | Python, Pandas, SQLite, Streamlit |
+| [DataScope](https://github.com/lucOlivbr/DataScope) | Análise do uso da internet (% da população) em Brasil, Argentina e Chile, com o indicador IT.NET.USER.ZS do Banco Mundial; coleta por API, tratamento de dados, SQL e exportação CSV; 9 testes, incluindo CSV → SQLite, com execução automática no GitHub. | Python, Pandas, SQLite, Streamlit |
 | [API de cadastro de usuários](https://github.com/lucOlivbr/cadastro-usuario) | CRUD REST com validação de nome/e-mail e proteção contra sobrescrita por ID no POST; 28 testes aprovados (27 de integração com H2), erros HTTP 400/404/409 e execução automática no GitHub Actions. | Java 17, Spring Boot, JPA, H2, Maven |
 | [Cadastro com Django](https://github.com/lucOlivbr/cadastro-usuarios-django) | Validação de formulários, CSRF, escape de HTML e fluxo POST/redirect/GET; 8 testes automatizados. | Python, Django, SQLite |
 | [Gerenciador de tarefas](https://github.com/lucOlivbr/Projeto-React) | Tarefas com persistência local e validação dos dados armazenados; 17 testes de regressão da persistência. | React, JavaScript, Vite, node:test |
